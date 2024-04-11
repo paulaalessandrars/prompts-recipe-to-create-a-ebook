@@ -44,7 +44,7 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook, com foco em HTML, listando os principais funções em HTML, com exemplos em código {REGRAS}. Explique sempre de uma maneira simples e deixe o texto enxuto, sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico. |
 
 
-Leonardo.Ai：
+Leonardo AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
