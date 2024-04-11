@@ -40,8 +40,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de HTML, o ebook é do nicho de programação e o subnicho é de HTML, o título deve ser épico e curto, e tenha uma temática de Harry Potter no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook, com foco em HTML, listando os principais funções em HTML, com exemplos em código {REGRAS}. Explique sempre de uma maneira simples e deixe o texto enxuto, sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de HTML, o ebook é do nicho de programação e o subnicho é de HTML, o título deve ser épico e curto, e tenha uma temática de Harry Potter no título, me liste 5 variações de títulos.                                                        |
+| conteúdo | Faça um texto para ebook, com foco em HTML, listando os principais funções em HTML, com exemplos em código {REGRAS}. Explique sempre de uma maneira simples e deixe o texto enxuto, sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico. |
 
 
 Leonardo.Ai：
